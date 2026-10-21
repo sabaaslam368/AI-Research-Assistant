@@ -1,0 +1,30 @@
+Artificial Intelligence
+
+Artificial Intelligence is a field of computer science
+that focuses on creating systems capable of performing
+tasks that normally require human intelligence.
+
+Machine Learning
+
+Machine Learning is a subfield of Artificial Intelligence.
+It allows systems to learn patterns from data.
+
+Generative AI
+
+Generative AI refers to models that can generate new content
+such as text, images, audio, video, and code.
+
+RAG
+
+RAG stands for Retrieval-Augmented Generation.
+
+RAG combines information retrieval with a generative
+language model.
+
+The retrieval component searches a knowledge base for
+relevant information. The language model then uses the
+retrieved information to generate a response.
+
+RAG can help ground an AI system in external information
+and can reduce hallucination when relevant information is
+available in the connected knowledge source.
